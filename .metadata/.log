@@ -775,3 +775,57 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.eclipse.ui 2 2 2022-07-14 15:48:13.563
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:00:53.918
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eeKMBrEW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:00:53.919
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.eeKMBrEW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:00:53.920
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:00:53.920
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eeKMBrEW => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:39.567
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:39.568
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2971edac[org.springframework.tooling.boot.ls:1.36.0.202206171137(id=922)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:39.568
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:41.888
+!MESSAGE Boot LS startup time from start to initialized: 2319ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:41.993
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KMDxlxmhisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:41.993
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:41.994
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:41.994
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:41.995
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KMDxlxmh => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:41.995
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:41.999
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:42.003
+!MESSAGE buffering callback sts4.classpath.KMDxlxmh backend false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:42.003
+!MESSAGE executing callback sts4.classpath.KMDxlxmh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 16:01:42.425
+!MESSAGE executing callback sts4.classpath.KMDxlxmh SUCCESS [done]

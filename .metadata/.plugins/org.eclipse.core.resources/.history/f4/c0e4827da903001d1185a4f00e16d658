@@ -1,0 +1,12 @@
+package com.devsuperior.dsmeta.services;
+
+import com.devsuperior.dsmeta.entities.Sale;
+
+import antlr.collections.List;
+
+public class SalesService {
+
+	public List<Sale> findSales() {
+		
+	}
+}
