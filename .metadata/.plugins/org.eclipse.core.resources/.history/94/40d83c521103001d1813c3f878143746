@@ -1,0 +1,12 @@
+package com.devsuperior.dsmeta.entities;
+
+import java.sql.Date;
+
+public class Sale {
+	private Long id;
+	private String sellerName;
+	private Integer visited;
+	private Integer deals;
+	private double amount;
+	private Date date;
+}
