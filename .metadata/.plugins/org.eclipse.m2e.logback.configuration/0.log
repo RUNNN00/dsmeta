@@ -2078,3 +2078,11 @@ java.net.URISyntaxException: Illegal character in path at index 18: file:/C:/Use
 2022-07-16 16:11:36,468 [Worker-20: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2022-07-16 16:11:36,471 [Worker-20: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-16 16:11:36,471 [Worker-20: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RUN CHAN\Documents\Projetos\dsmeta\backend\src\test\resources
+2022-07-16 17:43:39,105 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-16 17:43:39,105 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-16 17:43:39,106 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-16 17:43:39,107 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-16 17:43:39,107 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\RUN CHAN\Documents\Projetos\dsmeta\backend\src\test\resources
+2022-07-16 17:43:47,759 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-16 17:43:47,759 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-16 17:43:47,759 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
