@@ -18,4 +18,8 @@
     <fullyQualifiedTypeName name="java.time.Instant"/>
     <fullyQualifiedTypeName name="com.twilio.rest.api.v2010.account.Message"/>
     <fullyQualifiedTypeName name="com.twilio.type.PhoneNumber"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsmeta.repositories.SaleRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsmeta.entities.Sale"/>
 </qualifiedTypeNameHistroy>
